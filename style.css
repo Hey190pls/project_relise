@@ -82,6 +82,7 @@ h1 {
     position: relative;
     width: 630px;
     height: 410px;
+    top: 50px;
     left: 650px;
     bottom: 45px;
 }
