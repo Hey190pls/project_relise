@@ -1,0 +1,159 @@
+body {
+    font-family: sans-serif;
+    background-color: ;
+}
+
+header {}
+
+
+nav {
+    margin: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    text-decoration: none;
+    top: 46px;
+    font-size: 16px;
+    color: #535152;
+    right: 0;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.nav-link:hover {}
+
+h1 {
+    left: 40px;
+    top: 135px;
+    font-size: 48px;
+    display: flex;
+    justify-content: space-beetwen;
+    color: ;
+    margin-left: 15px;
+}
+
+.how {
+    position: absolute;
+    left: 75%;
+    display: flex-end;
+}
+
+.how h2 {
+    color: #1F1E20;
+}
+
+.plan {
+    display: flex;
+    padding: 20px 0;
+    border-bottom: 1px solid #E7E8EA;
+    margin-left: 25px;
+}
+
+.plan_2 {
+    width: 20%;
+}
+
+.rating {
+    border-bottom: 1px solid #E7E8EA;
+    margin-left: 25px;
+    display: flex;
+    padding: 20px 0;
+}
+
+.rating h2 {
+    width: 20%;
+}
+
+.realisition {
+    border-bottom: 1px solid #E7E8EA;
+    margin-left: 25px;
+    display: flex;
+    padding: 20px 0;
+}
+
+.realisition h2 {
+    width: 20%;
+}
+
+.img_2 {
+    position: relative;
+    width: 630px;
+    height: 410px;
+    left: 618px;
+    bottom: 45px;
+}
+
+.our_projects {
+    margin-left: 10%;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px 60px;
+    margin: 25px;
+}
+
+.projects h2 {
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+.project_1 {
+    margin: ;
+    justify-content: center;
+    padding: 15px;
+}
+
+.project_1 img {
+    width: 427px;
+    height: 232px;
+}
+
+.opus {
+    display: flex;
+    justify-content: space-around;
+}
+
+.opus_2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    margin-left: 15px;
+}
+
+
+.general {
+    width: 373px;
+    height: 95px;
+    font-size: 16px;
+    color: #656364;
+    display: flex;
+    justify-content: space-beetwen;
+    position: relative;
+    top: 340px;
+}
+
+
+.img_1 {
+    width: 449px;
+    height: 449px;
+    left: 55%;
+    bottom: 5px;
+}
+
+.footer {
+    margin: 25px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px;
+}
+
+.art {
+    margin: 20px;
+}
